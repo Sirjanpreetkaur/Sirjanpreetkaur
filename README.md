@@ -1,4 +1,8 @@
-<h1 align="center">👋 Hi, I'm Sirjanpreet Kaur!</h1>
+<h1 align="center">
+  <img src="https://media.tenor.com/0CpFOKGVaeMAAAAm/hand-waving-hand.webp" width="50px" alt="Hand Wave"/> 
+  Hi, I'm Sirjanpreet Kaur!
+</h1>
+
 <h3 align="center">🚀 Frontend Developer</h3>
 
 <p align="center">
@@ -6,13 +10,22 @@
 </p>
 
 ---
+<p dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif">
+    <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/0499a9d17248b0ef56dae9a63b09b16cc07d7a02f579fdc0a7cb81975dafbebb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966" style="max-width: 100%;">
+  </a>
+</p>
 
-### 🌟 About Me
-- 💻 Frontend Developer at Careers360  
-- 🌱 Learning **Advanced React & Performance Optimization**  
-- 📚 Passionate about **clean UI & modular components**  
-- 💬 Ask me about **React, JavaScript, and frontend best practices**  
-- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/sirjan-preet-kaur/)**  
+
+<ul dir="auto">
+  <li>🔭 I’m currently working as a <strong>Frontend Developer at Careers360</strong>.</li>
+  <li>🌱 I’m learning <strong>Advanced React & Performance Optimization</strong> to build faster web experiences.</li>
+  <li>👯 I love collaborating on <strong>React.js, JavaScript, and UI/UX projects</strong> that enhance user experience.</li>
+  <li>💬 Ask me about <strong>JavaScript, React.js, Redux, and best frontend practices</strong>.</li>
+  <li>📫 Connect with me on <a href="https://www.linkedin.com/in/sirjan-preet-kaur/">LinkedIn</a>!</li>
+  <li>⚡ Fun Fact: <strong>I enjoy optimizing UI components to make them lightning-fast! ⚡</strong></li>
+</ul>
+
 
 ---
 
