@@ -11,9 +11,7 @@
 
 ---
 <p dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif">
-    <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/0499a9d17248b0ef56dae9a63b09b16cc07d7a02f579fdc0a7cb81975dafbebb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966" style="max-width: 100%;">
-  </a>
+    <img align="right" height="250" width="400" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" style="max-width: 100%;">
 </p>
 
 
@@ -55,5 +53,4 @@
 
 ---
 
-### 🎵 Currently Vibing To
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)
+
