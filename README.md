@@ -5,9 +5,7 @@
 
 <h3 align="center">🚀 Frontend Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-</p>
+
 
 ---
 <p dir="auto">
