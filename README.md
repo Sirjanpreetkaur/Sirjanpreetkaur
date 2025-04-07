@@ -41,6 +41,9 @@
 
 ### 📢 Connect with Me
 <p align="left">
+ <a href="https://sirjanpreetk.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-28a745?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/sirjan-preet-kaur/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
